@@ -1,3 +1,4 @@
 # IS424_Project
 
-Hate Speech Analysing 
+Project Topic:
+Recognising hate speech on twitter (vs offensive language)
